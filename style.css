@@ -22,3 +22,8 @@ th {
 td {
   padding: 20px;
 }
+body {
+  padding: 100px;
+  box-sizing: border-box;
+  margin: 0;
+}
