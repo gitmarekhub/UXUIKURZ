@@ -23,7 +23,24 @@ td {
   padding: 20px;
 }
 body {
-  padding: 100px;
+  padding: 50px;
   box-sizing: border-box;
   margin: 0;
+}
+.cervena {
+  background-color: #d32f2f;
+  color: white;
+}
+.fialova {
+  background-color: #c2185b;
+  color: white;
+}
+.modra {
+  background-color: #1976d2;
+  color: white;
+}
+#specialka {
+  color: yellow;
+  font-style: italic;
+  font-weight: 900;
 }
