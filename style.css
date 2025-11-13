@@ -14,6 +14,11 @@ body {
 table {
   width: 100%;
 }
+
+.serialy th {
+  background-color: aqua;
+}
+
 th {
   background-color: aqua;
   padding: 10px;
@@ -30,17 +35,49 @@ body {
 .cervena {
   background-color: #d32f2f;
   color: white;
+  padding-left: 10px;
 }
 .fialova {
   background-color: #c2185b;
   color: white;
+  padding-left: 10px;
 }
 .modra {
   background-color: #1976d2;
   color: white;
+  padding-left: 10px;
 }
 #specialka {
   color: yellow;
   font-style: italic;
   font-weight: 900;
+}
+.filmy {
+  max-width: 900px;
+  border-collapse: collapse;
+  text-align: left;
+  margin: 50px auto;
+}
+
+.filmy th {
+  background-color: white;
+  color: black;
+  text-align: left;
+  padding: 12px 5px;
+  border-bottom: 1px solid grey;
+}
+
+.filmy td {
+  padding: 12px 5px;
+  border-bottom: 1px solid grey;
+}
+
+.filmy tr {
+  border-bottom: 1px solid grey;
+}
+.grey {
+  background-color: #ececec;
+}
+.white {
+  background-color: white;
 }
