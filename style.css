@@ -64,16 +64,19 @@ body {
   color: black;
   text-align: left;
   padding: 12px 5px;
-  border-bottom: 1px solid grey;
+  border-bottom: 1px solid rgb(184, 183, 183);
+}
+
+.extrasolid {
+  border-bottom: 2px solid rgb(184, 183, 183);
 }
 
 .filmy td {
   padding: 12px 5px;
-  border-bottom: 1px solid grey;
+  border-bottom: 1px solid rgb(184, 183, 183);
 }
 
 .filmy tr {
-  border-bottom: 1px solid grey;
 }
 .grey {
   background-color: #ececec;
