@@ -250,16 +250,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.01847375535398932,
-          "pitch": 0.3831630310982881,
-          "rotation": 0,
-          "target": "6-lonice---okno"
-        },
-        {
-          "yaw": 3.0817998775755653,
-          "pitch": 0.5886161068151736,
+          "yaw": 3.0726481386181996,
+          "pitch": 0.7089216437863239,
           "rotation": 0,
           "target": "2-chodba"
+        },
+        {
+          "yaw": -0.02969338778791908,
+          "pitch": 0.37274939554854924,
+          "rotation": 0,
+          "target": "6-lonice---okno"
         }
       ],
       "infoHotspots": []
@@ -294,10 +294,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.6256148535730937,
-          "pitch": 0.48404199595513475,
+          "yaw": -1.6049456544548768,
+          "pitch": 0.4629221436498554,
           "rotation": 0,
           "target": "5-lonice---vstup"
+        },
+        {
+          "yaw": -1.6303358189608925,
+          "pitch": 0.28538514004482884,
+          "rotation": 0,
+          "target": "2-chodba"
         }
       ],
       "infoHotspots": []
@@ -376,16 +382,22 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.73711194094464,
-          "pitch": 0.3775717412925701,
+          "yaw": -2.8054805430241228,
+          "pitch": 0.3775754071757689,
           "rotation": 0,
           "target": "7-kuchyn"
+        },
+        {
+          "yaw": -2.640715836903693,
+          "pitch": 0.25556455194744565,
+          "rotation": 0,
+          "target": "2-chodba"
         }
       ],
       "infoHotspots": []
     }
   ],
-  "name": "2KK",
+  "name": "2KK_VR",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
